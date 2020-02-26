@@ -1,0 +1,14 @@
+/* 
+  FontGen_4iOS
+
+  Created by Tom on 2020/2/26.
+  Copyright © 2020 Tom. All rights reserved.
+*/
+"ChooseFont" = "Choose Font";
+"Attention" = "Attention!";
+"NoFontAdded" = "You didn't add any fonts. Please add at least one font file.";
+"ChooseDIR" = "Choose Output Directory";
+"Finished" = "Finshed!";
+"OpenFolder?" = "Would you like to open the output folder NOW?";
+"OK" = "OK";
+"Cancel" = "Cancel";

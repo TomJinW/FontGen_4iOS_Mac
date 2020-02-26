@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>default</key>
+		<string>FontGen_4iOS is not responsible for any damage on your device if something bad really happens. FontGen_4iOS 不会对 iOS 的可能存在的潜在设备伤害负责。</string>
+	</dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>Font</key>
+			<data>
+				%FONT_BASE64_DATA%
+			</data>
+			<key>Name</key>
+<string>%FONT_NAME%</string>
+<key>PayloadDescription</key>
+			<string>Configures Font setting/配置字体设置</string>
+			<key>PayloadDisplayName</key>
+			<string>Fonts/字体</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.font.%FONT_PAYLOAD_UUID%</string>
+			<key>PayloadType</key>
+			<string>com.apple.font</string>
+			<key>PayloadUUID</key>
+			<string>%FONT_PAYLOAD_UUID%</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Install Font on your iOS Device. 给 iOS 设备安装字体。</string>
+	<key>PayloadDisplayName</key>
+	<string>Font Install for %FONT_NAME%</string>
+	<key>PayloadIdentifier</key>
+<string>%PROFILE_UUID%</string>
+<key>PayloadOrganization</key>
+	<string>FontGen_iOS</string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>%PROFILE_PAYLOAD_UUID%</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>

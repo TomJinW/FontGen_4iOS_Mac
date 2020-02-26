@@ -1,0 +1,177 @@
+/* Class = "NSTextFieldCell"; title = "Now Processing. Please wait."; ObjectID = "A0d-Ug-mHa"; */
+"A0d-Ug-mHa.title" = "正在处理中，请稍等";
+
+/* Class = "NSMenuItem"; title = "FontGen_4iOS"; ObjectID = "1Xt-HY-uBw"; */
+"1Xt-HY-uBw.title" = "FontGen_4iOS";
+
+/* Class = "NSMenu"; title = "Find"; ObjectID = "1b7-l0-nxx"; */
+"1b7-l0-nxx.title" = "查找";
+
+/* Class = "NSMenuItem"; title = "Find"; ObjectID = "4EN-yA-p0u"; */
+"4EN-yA-p0u.title" = "查找";
+
+/* Class = "NSMenuItem"; title = "Enter Full Screen"; ObjectID = "4J7-dP-txa"; */
+"4J7-dP-txa.title" = "Enter Full Screen";
+
+/* Class = "NSMenuItem"; title = "Quit FontGen_4iOS"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "退出 FontGen_4iOS";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "5QF-Oa-p0T"; */
+"5QF-Oa-p0T.title" = "编辑";
+
+/* Class = "NSMenuItem"; title = "About FontGen_4iOS"; ObjectID = "5kV-Vb-QxS"; */
+"5kV-Vb-QxS.title" = "关于 FontGen_4iOS";
+
+/* Class = "NSButtonCell"; title = "Clear"; ObjectID = "6Jy-Rv-Fcz"; */
+"6Jy-Rv-Fcz.title" = "清除";
+
+/* Class = "NSMenuItem"; title = "Redo"; ObjectID = "6dh-zS-Vam"; */
+"6dh-zS-Vam.title" = "重做";
+
+/* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
+"AYu-sK-qS6.title" = "主菜单";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "BOF-NM-1cW"; */
+"BOF-NM-1cW.title" = "偏好设置…";
+
+/* Class = "NSMenuItem"; title = "Close"; ObjectID = "DVo-aG-piG"; */
+"DVo-aG-piG.title" = "关闭";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ"; */
+"F2S-fz-NVQ.title" = "帮助";
+
+/* Class = "NSMenuItem"; title = "FontGen_4iOS Help"; ObjectID = "FKE-Sm-Kum"; */
+"FKE-Sm-Kum.title" = "FontGen_4iOS 帮助";
+
+/* Class = "NSTextFieldCell"; title = "/test"; ObjectID = "Fzn-T6-Oo5"; */
+"Fzn-T6-Oo5.title" = "/test";
+
+/* Class = "NSMenuItem"; title = "View"; ObjectID = "H8h-7b-M4v"; */
+"H8h-7b-M4v.title" = "显示";
+
+/* Class = "NSMenu"; title = "View"; ObjectID = "HyV-fh-RgO"; */
+"HyV-fh-RgO.title" = "显示";
+
+/* Class = "NSWindow"; title = "Window"; ObjectID = "IQv-IB-iLA"; */
+
+
+/* Class = "NSTextFieldCell"; title = "Profile Payload UUID"; ObjectID = "Ind-cX-nmf"; */
+"Ind-cX-nmf.title" = "Profile Payload UUID";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS"; */
+"Kd2-mp-pUS.title" = "显示全部";
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "LE2-aR-0XJ"; */
+"LE2-aR-0XJ.title" = "前置全部窗口";
+
+/* Class = "NSTextFieldCell"; title = "Profile UUID"; ObjectID = "NLy-aa-BpE"; */
+"NLy-aa-BpE.title" = "Profile UUID";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "NMo-om-nkz"; */
+"NMo-om-nkz.title" = "服务";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "OY7-WF-poV"; */
+"OY7-WF-poV.title" = "最小化";
+
+/* Class = "NSMenuItem"; title = "Hide FontGen_4iOS"; ObjectID = "Olw-nP-bQN"; */
+"Olw-nP-bQN.title" = "隐藏 FontGen_4iOS";
+
+/* Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "OwM-mh-QMV"; */
+"OwM-mh-QMV.title" = "查找上一个";
+
+/* Class = "NSButtonCell"; title = "Remove Font"; ObjectID = "Qt2-wq-wkI"; */
+"Qt2-wq-wkI.title" = "删除字体";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "R4o-n2-Eq4"; */
+"R4o-n2-Eq4.title" = "缩放";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "Ruw-6m-B2m"; */
+"Ruw-6m-B2m.title" = "全选";
+
+/* Class = "NSMenuItem"; title = "Jump to Selection"; ObjectID = "S0p-oC-mLd"; */
+"S0p-oC-mLd.title" = "跳到所选内容";
+
+/* Class = "NSButtonCell"; title = "Help"; ObjectID = "SIi-Z3-gRD"; */
+"SIi-Z3-gRD.title" = "帮助";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "Td7-aD-5lo"; */
+"Td7-aD-5lo.title" = "窗口";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "VJh-5V-lqg"; */
+"VJh-5V-lqg.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO"; */
+"Vdr-fp-XzO.title" = "隐藏其他";
+
+/* Class = "NSMenu"; title = "Edit"; ObjectID = "W48-6f-4Dl"; */
+"W48-6f-4Dl.title" = "编辑";
+
+/* Class = "NSMenuItem"; title = "Find…"; ObjectID = "Xz5-n4-O0W"; */
+"Xz5-n4-O0W.title" = "查找…";
+
+/* Class = "NSMenuItem"; title = "Find and Replace…"; ObjectID = "YEy-JH-Tfz"; */
+"YEy-JH-Tfz.title" = "查找与替换…";
+
+/* Class = "NSTextFieldCell"; title = "Font Name"; ObjectID = "aAH-Wy-dvH"; */
+"aAH-Wy-dvH.title" = "字体名称";
+
+/* Class = "NSButtonCell"; title = "Generate"; ObjectID = "aKE-2k-o3L"; */
+"aKE-2k-o3L.title" = "生成";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "aUF-d1-5bR"; */
+"aUF-d1-5bR.title" = "窗口";
+
+/* Class = "NSMenu"; title = "File"; ObjectID = "bib-Uj-vzu"; */
+"bib-Uj-vzu.title" = "文件";
+
+/* Class = "NSMenuItem"; title = "Use Selection for Find"; ObjectID = "buJ-ug-pKt"; */
+"buJ-ug-pKt.title" = "查找所选内容";
+
+/* Class = "NSMenuItem"; title = "File"; ObjectID = "dMs-cI-mzQ"; */
+"dMs-cI-mzQ.title" = "文件";
+
+/* Class = "NSMenuItem"; title = "Undo"; ObjectID = "dRJ-4n-Yzg"; */
+"dRJ-4n-Yzg.title" = "撤销";
+
+/* Class = "NSButtonCell"; title = "Start"; ObjectID = "fdC-vp-cUt"; */
+"fdC-vp-cUt.title" = "开始生成";
+
+/* Class = "NSTextFieldCell"; title = "Font Payload UUID"; ObjectID = "gRN-oS-wXK"; */
+"gRN-oS-wXK.title" = "Font Payload UUID";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "gVA-U4-sdL"; */
+"gVA-U4-sdL.title" = "粘贴";
+
+/* Class = "NSButtonCell"; title = "Add Font"; ObjectID = "h44-m3-qZe"; */
+"h44-m3-qZe.title" = "添加字体";
+
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "pa3-QI-u2k"; */
+"pa3-QI-u2k.title" = "删除";
+
+/* Class = "NSMenuItem"; title = "Find Next"; ObjectID = "q09-fT-Sye"; */
+"q09-fT-Sye.title" = "查找下一个";
+
+/* Class = "NSButtonCell"; title = "Generate"; ObjectID = "ry0-b9-VkK"; */
+"ry0-b9-VkK.title" = "生成";
+
+/* Class = "NSMenu"; title = "FontGen_4iOS"; ObjectID = "uQy-DD-JDr"; */
+"uQy-DD-JDr.title" = "FontGen_4iOS";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "uRl-iY-unG"; */
+"uRl-iY-unG.title" = "剪切";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
+"wpr-3q-Mcd.title" = "帮助";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "x3v-GG-iWU"; */
+"x3v-GG-iWU.title" = "拷贝";
+
+/* Class = "NSButtonCell"; title = "Default"; ObjectID = "xVS-nw-3XM"; */
+"xVS-nw-3XM.title" = "默认";
+
+/* Class = "NSButtonCell"; title = "Generate"; ObjectID = "y3d-f6-jHK"; */
+"y3d-f6-jHK.title" = "生成";
+
+"ProcessingLabel.title" = "正在生成中，请稍等";
+
