@@ -1,6 +1,6 @@
 # FontGen_4iOS macOS
 
-[English](readme.md) [简体中文](readme-cn.md)
+[English](README.md) [简体中文](readme-cn.md)
 
 ## 这是干啥的
 
